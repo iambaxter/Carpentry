@@ -21,3 +21,4 @@ Stars:
 
 Asteroids:
 Halley's Comet
+Limin likes Mars
