@@ -1,0 +1,19 @@
+Mercury
+Venus
+Earth
+Mars
+-- Asteroid Belt --
+
+Jupiter
+Saturn
+Neptune
+Uranus
+
+Dwarf Planets:
+Ceres
+Pluto (Due to IEA defition 2014 )
+
+
+
+Stars:
+	Alpha Centuri (sp?) is the closest star. 
